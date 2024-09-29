@@ -2,7 +2,12 @@ import { useState } from 'react'
 import './App.css'
 
 function App() {
+<<<<<<< HEAD
   
+=======
+  //count has a logic that  it will be incremented by 1 every time the button is clicked and decrease by 1 when clicked on another button ans its value will remain between  0 and 20;
+  const [count, setCount] = useState(0)
+>>>>>>> b08e2916b64a2e3d64a37620c9ab9e7bd5c8c25f
 
   // const [count, setCount] = useState(0)
 
